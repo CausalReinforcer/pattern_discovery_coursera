@@ -33,13 +33,13 @@ def get_items(itemsets):
     return items
 
 def get_next_level_candidates(itemsets):
-    """Generate candidate frequent items of size k+1, from that of size k.
+    """Generate candidate frequent itemsets of size k+1, from that of size k.
 
     Args:
-        patterns (Iterable of sets of size k): Frequent items of size k.
+        patterns (Iterable of sets of size k): Frequent itemsets of size k.
 
     Returns:
-        set of frozensets of size k+1: Candidate frequent items of size k+1.
+        set of frozensets of size k+1: Candidate frequent itemsets of size k+1.
     """
     items = get_items(itemsets)
     raw_candidates = set()
