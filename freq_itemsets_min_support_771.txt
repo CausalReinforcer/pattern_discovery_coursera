@@ -1,0 +1,101 @@
+1369:Breakfast & Brunch
+2416:American (Traditional)
+25071:Restaurants
+2364:Sandwiches
+3468:Local Services
+1848:Italian
+9250:Food
+2199:Coffee & Tea
+2851:Fast Food
+4785:Home Services
+1424:Real Estate
+4328:Bars
+818:Sports Bars
+5088:Nightlife
+1593:American (New)
+4208:Automotive
+1424:Grocery
+2975:Event Planning & Services
+11233:Shopping
+1586:Home & Garden
+1716:Auto Repair
+1774:Burgers
+2657:Pizza
+6583:Beauty & Spas
+3103:Active Life
+1018:Ice Cream & Frozen Yogurt
+2091:Hair Salons
+1694:Doctors
+5121:Health & Medical
+2271:Arts & Entertainment
+1002:Cafes
+1115:Bakeries
+2495:Hotels & Travel
+1431:Hotels
+1442:Fitness & Instruction
+1667:Nail Salons
+3078:Fashion
+1629:Chinese
+1138:Women's Clothing
+870:Pet Services
+1497:Pets
+1150:Specialty Food
+2515:Mexican
+874:Pubs
+798:Sushi Bars
+848:Japanese
+1025:Professional Services
+875:Financial Services
+1195:Dentists
+823:General Dentistry
+870:Pets;Pet Services
+1586:Home & Garden;Shopping
+2423:Restaurants;Bars
+798:Sushi Bars;Restaurants
+823:Dentists;General Dentistry
+2851:Fast Food;Restaurants
+1150:Food;Specialty Food
+1629:Chinese;Restaurants
+1774:Burgers;Restaurants
+874:Pubs;Bars
+1442:Fitness & Instruction;Active Life
+4328:Nightlife;Bars
+823:General Dentistry;Health & Medical
+2416:American (Traditional);Restaurants
+848:Restaurants;Japanese
+2091:Beauty & Spas;Hair Salons
+1593:American (New);Restaurants
+1431:Event Planning & Services;Hotels
+1369:Breakfast & Brunch;Restaurants
+1424:Food;Grocery
+1195:Dentists;Health & Medical
+1848:Italian;Restaurants
+1424:Home Services;Real Estate
+774:Burgers;Fast Food
+2515:Mexican;Restaurants
+818:Nightlife;Sports Bars
+2199:Coffee & Tea;Food
+1694:Doctors;Health & Medical
+2533:Nightlife;Restaurants
+2101:Food;Restaurants
+818:Sports Bars;Bars
+1431:Hotels;Hotels & Travel
+2657:Pizza;Restaurants
+1018:Ice Cream & Frozen Yogurt;Food
+1138:Women's Clothing;Shopping
+1716:Automotive;Auto Repair
+1002:Cafes;Restaurants
+1138:Women's Clothing;Fashion
+1667:Beauty & Spas;Nail Salons
+1471:Event Planning & Services;Hotels & Travel
+3078:Fashion;Shopping
+1115:Food;Bakeries
+874:Pubs;Nightlife
+2364:Sandwiches;Restaurants
+2423:Nightlife;Restaurants;Bars
+774:Burgers;Fast Food;Restaurants
+818:Sports Bars;Nightlife;Bars
+874:Pubs;Nightlife;Bars
+1138:Women's Clothing;Fashion;Shopping
+823:Dentists;General Dentistry;Health & Medical
+1431:Event Planning & Services;Hotels;Hotels & Travel
